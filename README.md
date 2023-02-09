@@ -1,4 +1,4 @@
-# A1 - Piraten Karpen
+Piraten Karpen
 
   * Author: < Mahad Ahmed >
   * Email: < ahmedmahad25@gmail.com // ahmem73@mcmaster.ca >
